@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Frontend Developer from :taiwan: :earth_asia: with 3+ years of experience building websites and web applications using **React**, **Next.js**, **JavaScript**, and **TypeScript**. I enjoy creating functionalities in the minimalist, native-first way!
+I'm a Frontend Developer from :taiwan: :earth_asia: building websites and web applications using **React**, **Next.js**, **JavaScript**, and **TypeScript**. I enjoy creating functionalities in the minimalist, native-first way!
 
 :balance_scale: :globe_with_meridians: I support the idea of making the web accessible to everyone.
 
