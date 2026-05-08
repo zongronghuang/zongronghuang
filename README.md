@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Zong-Rong 👋
 
 <!--
 **zongronghuang/zongronghuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Frontend Developer with 3+ years of experience building high-performance, scalable, and internationalized web applications using React, Next.js, and TypeScript. I specialize in developing responsive, API-driven UIs for fintech products serving global users, with a strong focus on performance, usability, and maintainability.
+I'm a Frontend Developer from :taiwan: :earth_asia: with 3+ years of experience building websites and web applications using **React**, **Next.js**, **JavaScript**, and **TypeScript**. I enjoy creating functionalities in the minimalist, native-first way!
 
-I bring a quality-first mindset to frontend engineering, with hands-on experience implementing automated testing strategies (unit, integration, and end-to-end) to ensure reliability in production. My background also includes 6+ years in technical and UX writing, enabling me to design intuitive user experiences and communicate effectively across engineering, product, and design teams.
+:balance_scale: :globe_with_meridians: I support the idea of making the web accessible to everyone.
 
-Tech stack: React, Next.js, TypeScript, JavaScript, Tailwind CSS, Vite, Jest, Vitest, React Testing Library, Playwright
+Skills:
+- :rocket: Frontend: TypeScript, JavaScript, React, Next.js, Tailwind CSS, Vite
+- :seedling: Backend: Node.js, Express.js
+- :waxing_gibbous_moon: Testing: Jest, Vitest, React Testing Library, Playwright, Mock Service Worker
+- :lips: Languages: Chinese :taiwan:, English :us: :uk:, Spanish :es:
