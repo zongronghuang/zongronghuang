@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Frontend Developer with 3+ years of experience building high-performance, scalable, and internationalized web applications using React, Next.js, and TypeScript. I specialize in developing responsive, API-driven UIs for fintech products serving global users, with a strong focus on performance, usability, and maintainability.
+
+I bring a quality-first mindset to frontend engineering, with hands-on experience implementing automated testing strategies (unit, integration, and end-to-end) to ensure reliability in production. My background also includes 6+ years in technical and UX writing, enabling me to design intuitive user experiences and communicate effectively across engineering, product, and design teams.
+
+Tech stack: React, Next.js, TypeScript, JavaScript, Tailwind CSS, Vite, Jest, Vitest, React Testing Library, Playwright
